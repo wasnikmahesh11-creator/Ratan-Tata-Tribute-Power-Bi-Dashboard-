@@ -23,9 +23,8 @@ The visuals and layout are customized to maintain a respectful and minimalistic 
 #PowerBI #DataVisualization #RatanTata #TataGroup #BusinessIntelligence #StockMarket #Leadership #DataStorytelling #Analytics #TataMotors
 
 
-
-
-
+Schreenshort / Demos:
+Show what the dashboard lokks like. -
 
 
 
