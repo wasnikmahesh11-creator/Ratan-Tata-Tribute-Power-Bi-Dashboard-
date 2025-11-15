@@ -24,7 +24,7 @@ The visuals and layout are customized to maintain a respectful and minimalistic 
 
 
 Schreenshort / Demos:
-Show what the dashboard lokks like. -
+Show what the dashboard lokks like. - https://github.com/wasnikmahesh11-creator/Ratan-Tata-Tribute-Power-Bi-Dashboard-/blob/main/Ratan%20Tata%20Tribute%20Power%20Bi%20Dashboard%20(1).png
 
 
 
